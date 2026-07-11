@@ -31,3 +31,5 @@ Automated pipeline that scrapes LinkedIn job postings, classifies contract type 
 
 - LinkedIn — [gustavo-fortunato](https://www.linkedin.com/in/gustavo-fortunato-13a8aa167)
 - Kaggle — [gustavofortunato](https://www.kaggle.com/gustavofortunato)
+
+<!-- profile -->
