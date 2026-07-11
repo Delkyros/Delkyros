@@ -1,24 +1,33 @@
-## Hi, I'm Gustavo Fortunato 👋
+## Gustavo Fortunato
 
-**Scientist turned Data Scientist.** MSc in Food Science, background in animal science — I spent years turning messy lab and field data into decisions, then made it my craft. I bring the rigor of the scientific method to data problems: define the question, measure honestly, and let the evidence decide.
+**Data Scientist · AI Agents & LLM Systems · ML Engineering**
 
-📍 São José, Santa Catarina, Brazil
+Data Scientist with 6+ years building end-to-end machine learning, data engineering, and AI systems for industrial and research environments. Technical reference for **LLM agents, RAG, and MCP servers in production** — from >50k-sensor data pipelines to REST APIs serving ~1,000 global consumers. Applied statistics and research rigor, backed by an MSc.
+
+📍 São José, Santa Catarina, Brazil · MSc — Universidade Federal de Santa Catarina
 
 ---
 
-### What I work with
+### What I work on
 
-- **Data science & ML** — Python, pandas, scikit-learn, statistics
-- **Analytics & BI** — Power BI, ETL pipelines, data modeling & visualization
-- **Domains** — bioinformatics, food & protein science, personal finance analytics
+- **AI Agents & LLMs** — LLM agents, RAG pipelines, LangChain, MCP (Model Context Protocol), Qdrant, prompt engineering, tool orchestration
+- **Machine Learning** — NLP, deep learning, supervised learning, feature engineering, model validation & optimization
+- **Data Engineering** — ETL/ELT, large-scale pipelines, Azure (ADX, ADF, Synapse/PySpark), IoT Edge
+- **Backend & Cloud** — Python, SQL, REST APIs, Docker, CI/CD, Azure & AWS
 
-### Selected projects
+### Featured project
 
-- **[Bioinformatics](https://github.com/Delkyros/Bioinformatics)** — Python tools for simulating enzymatic protein hydrolysis. Where my science background meets code.
-- **[Power_BI](https://github.com/Delkyros/Power_BI)** — Dashboards and ETL pipelines: data modeling and visualization end to end.
-- **[Learning](https://github.com/Delkyros/Learning)** — Hands-on notebooks across data science, statistics and machine learning.
+**[CV_bot — JobMatch AI](https://github.com/Delkyros/CV_bot)** 🎯
+Automated pipeline that scrapes LinkedIn job postings, classifies contract type and scores each opening against your profile using a resilient LLM chain (OpenRouter → Gemini) with an embedding scope gate. Ships with a web triage app, Docker, and tests.
+`Python` · `LLMs` · `embeddings` · `web scraping` · `Docker`
 
-### Find me
+### Selected impact
 
-- Kaggle — [gustavofortunato](https://www.kaggle.com/gustavofortunato)
+- 🧬 Led a bioinformatics ML project predicting intestinal peptide absorption with **98%** probability — confirmed experimentally in the lab (SVM, Random Forest, cross-validation).
+- 📄 Built an NLP pipeline that screened **50k** patent/literature documents into 10 scope tiers at **99%** accuracy, cutting manual review down to 80 final candidates.
+- 🏭 Delivered the OEE module (ISO 22400) to production across **4 plants** and operate ~18 production REST APIs serving ~1,000 global consumers.
+
+### Connect
+
 - LinkedIn — [gustavo-fortunato](https://www.linkedin.com/in/gustavo-fortunato-13a8aa167)
+- Kaggle — [gustavofortunato](https://www.kaggle.com/gustavofortunato)
